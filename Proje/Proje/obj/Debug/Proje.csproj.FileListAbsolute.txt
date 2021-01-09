@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Pc\Desktop\NDP_PROJE\Proje\Proje\obj\Debug\Proje.pdb
