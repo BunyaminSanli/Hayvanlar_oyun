@@ -1,4 +1,7 @@
 # Hayvanlar_oyun
+oyun basit düzeyde yem ver hayvandan elde edilen ürünü sat fonksiyonlarını içeriyor zamanında yemlenmediğinde hayvan ölüyor. amaç sürekli yemleyerek ve 
+ürünleri toplayarak kazancı artırmak.
+
  hayvan adında bir abstract class oluşturdum ve 4 hayvan için de ortak olan metotları ve özellikleri yazdım. Daha sonra her bir hayvan sınıfına 
  hayvan adlı abstract classtan kalıtım aldırarak metotları uygulattırdım. Can metodu keçi için eğer enerjisi 6 dan büyükse 6 birim azaltıyor 
  ancak 6dan küçükse 0’a eşitliyor çünkü 100 birimlik progressBar her saniye 6 birim azaldığından en son 4 birim can kalacaktır. 
